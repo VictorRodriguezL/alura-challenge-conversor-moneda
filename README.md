@@ -1,6 +1,6 @@
 # Challenge ONE Java - Conversor de Moneda.
 
-![Badge Release](https://img.shields.io/badge/Release%20Date:-Marzo-blue)``
+![Badge Release](https://img.shields.io/badge/Release%20Date:-Marzo-blue)
 ![Badge Java](https://img.shields.io/badge/Java:-8-blue)
 ![Badge Finalizado](https://img.shields.io/badge/Status:-Finalizado-blue)
 
